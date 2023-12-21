@@ -1,0 +1,385 @@
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN] 2023/12/20 - 11:26:24 | 200 |     41.0594ms |             ::1 | GET      "/api/reagent/info"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] GET    /api/reagent/search       --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN] 2023/12/20 - 11:34:54 | 200 |     23.8802ms |             ::1 | GET      "/api/reagent/search?reagent_time=2023-06-05"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] GET    /api/reagent/search       --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN] 2023/12/20 - 11:36:09 | 200 |     36.1553ms |             ::1 | GET      "/api/reagent/search?reagent_time=2023-06-05"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] GET    /api/reagent/search       --> qt1218-backend/controller.SearchReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] GET    /api/reagent/search       --> qt1218-backend/controller.SearchReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] GET    /api/reagent/search       --> qt1218-backend/controller.SearchReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN] 2023/12/20 - 11:38:37 | 200 |     22.0049ms |             ::1 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/20 - 11:39:30 | 200 |      1.4026ms |             ::1 | GET      "/api/reagent/search?Reagent_time=2023-06-05T00:00:00+08:00"
+[GIN] 2023/12/20 - 11:39:43 | 200 |       879.5µs |             ::1 | GET      "/api/reagent/search?Reagent_time=2023-07-05"
+[GIN] 2023/12/20 - 11:39:48 | 400 |      2.3643ms |             ::1 | GET      "/api/reagent/search?Reagent_time=2023-07-06"
+[GIN] 2023/12/20 - 11:39:52 | 400 |      1.6599ms |             ::1 | GET      "/api/reagent/search?Reagent_time=2023-07-08"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] GET    /api/reagent/search       --> qt1218-backend/controller.SearchReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN] 2023/12/20 - 11:40:36 | 200 |     24.7838ms |             ::1 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] GET    /api/reagent/search       --> qt1218-backend/controller.SearchReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN] 2023/12/20 - 11:43:45 | 200 |     46.6464ms |   192.168.217.1 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/20 - 11:44:11 | 200 |       890.8µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] GET    /api/reagent/search       --> qt1218-backend/controller.SearchReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN] 2023/12/21 - 08:55:06 | 200 |      8.3717ms | 192.168.110.227 | GET      "/api/reagent/search"
+[GIN-debug] [WARNING] Creating an Engine instance with the Logger and Recovery middleware already attached.
+
+[GIN-debug] [WARNING] Running in "debug" mode. Switch to "release" mode in production.
+ - using env:	export GIN_MODE=release
+ - using code:	gin.SetMode(gin.ReleaseMode)
+
+[GIN-debug] GET    /api/reagent/info         --> qt1218-backend/controller.GetReagentInfo (4 handlers)
+[GIN-debug] GET    /api/reagent/search       --> qt1218-backend/controller.SearchReagentInfo (4 handlers)
+[GIN-debug] [WARNING] You trusted all proxies, this is NOT safe. We recommend you to set a value.
+Please check https://pkg.go.dev/github.com/gin-gonic/gin#readme-don-t-trust-all-proxies for details.
+[GIN-debug] Listening and serving HTTP on :1016
+[GIN] 2023/12/21 - 11:31:23 | 200 |     19.9029ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:20:08 | 200 |     62.7401ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:20:49 | 200 |      1.5092ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:22:29 | 200 |      1.3696ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:24:33 | 200 |      1.5955ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:24:48 | 200 |       883.1µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:28:31 | 200 |      1.1233ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:33:02 | 200 |      2.0938ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:33:31 | 200 |      2.2368ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:34:14 | 200 |       787.2µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:35:23 | 200 |       874.9µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:35:26 | 200 |      1.2071ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:35:27 | 200 |       845.4µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:35:27 | 200 |      1.7463ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:38:29 | 200 |      1.1575ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:38:32 | 200 |      1.2939ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:43:39 | 200 |      1.0072ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:43:39 | 200 |     40.3886ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:46:52 | 200 |      1.4991ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:46:53 | 200 |      1.2625ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:46:54 | 200 |      1.4905ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:46:54 | 200 |      1.6727ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:46:54 | 200 |      1.6156ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:46:55 | 200 |       865.2µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:46:55 | 200 |       943.8µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:48:12 | 200 |      8.5789ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:48:13 | 200 |      1.5062ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:48:14 | 200 |      1.5704ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:48:14 | 200 |       950.5µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:48:14 | 200 |       944.4µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:48:14 | 200 |       807.6µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:48:14 | 200 |      1.0766ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:48:15 | 200 |      1.4418ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:48:15 | 200 |      1.7073ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:48:15 | 200 |      1.1825ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:48:15 | 200 |         970µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:48:16 | 200 |      1.0028ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:48:16 | 200 |      1.7124ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:49:10 | 200 |      4.0863ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:55:51 | 200 |      1.2128ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:57:14 | 200 |      1.0417ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:57:44 | 200 |      1.5533ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:58:33 | 200 |       962.8µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:31 | 200 |      1.1343ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:39 | 200 |      1.6528ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:42 | 200 |      1.8035ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:43 | 200 |      1.4398ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:44 | 200 |       1.393ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:45 | 200 |      1.8058ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:45 | 200 |       764.8µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:46 | 200 |      1.1976ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:46 | 200 |      1.2659ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:47 | 200 |      1.9488ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:47 | 200 |      1.7287ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:47 | 200 |      1.9477ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:48 | 200 |      2.0048ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:50 | 200 |       556.6µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:51 | 200 |      1.0204ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:52 | 200 |      1.1617ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:53 | 200 |      1.1393ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:53 | 200 |       916.7µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 15:59:54 | 200 |      1.3853ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:00:30 | 200 |      1.5116ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:02:09 | 200 |      1.4819ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:02:10 | 200 |      2.2295ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:02:11 | 200 |      1.0049ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:02:11 | 200 |      1.3078ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:02:12 | 200 |      1.1575ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:02:15 | 200 |      1.5136ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:02:16 | 200 |      1.4578ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:02:16 | 200 |       1.883ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:02:16 | 200 |       982.4µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:02:17 | 200 |      1.0384ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:02:18 | 200 |      1.5108ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:02:18 | 200 |      1.2331ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:02:18 | 200 |      1.7612ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:39 | 200 |      1.2013ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:42 | 200 |      1.2509ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:42 | 200 |      1.6583ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:43 | 200 |      1.1619ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:43 | 200 |      1.1754ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:43 | 200 |      1.1318ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:44 | 200 |      1.3877ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:44 | 200 |      1.1723ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:44 | 200 |       983.8µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:44 | 200 |      1.3469ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:45 | 200 |      1.5952ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:46 | 200 |      1.8098ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:46 | 200 |      1.5044ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:48 | 200 |      1.3512ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:48 | 200 |      2.1439ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:49 | 200 |      2.2234ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:49 | 200 |       996.6µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:03:49 | 200 |      1.1245ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:06:09 | 200 |      1.2232ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:06:21 | 200 |      1.2356ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:06:33 | 200 |      1.3716ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:06:45 | 200 |      1.1265ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:06:53 | 200 |         895µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:03 | 200 |      1.7496ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:06 | 200 |      1.2147ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:08 | 200 |       974.5µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:09 | 200 |       930.6µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:09 | 200 |       779.1µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:09 | 200 |       920.6µs | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:10 | 200 |      1.2691ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:10 | 200 |      1.0674ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:10 | 200 |      1.1562ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:21 | 200 |      1.1115ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:30 | 200 |      1.7744ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:37 | 200 |      1.2137ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:41 | 200 |      1.7221ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:51 | 200 |      1.6457ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"
+[GIN] 2023/12/21 - 16:07:56 | 200 |       1.679ms | 192.168.110.227 | GET      "/api/reagent/search?Reagent_time=2023-06-05"

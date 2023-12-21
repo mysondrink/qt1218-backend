@@ -2,7 +2,7 @@
  * @Author: mysondrink
  * @Date: 2023-12-19 14:35:48
  * @Last Modified by: mysondrink
- * @Last Modified time: 2023-12-19 17:24:44
+ * @Last Modified time: 2023-12-20 10:55:16
  * @Description:  数据库配置连接处理
  */
 
@@ -49,7 +49,7 @@ func InitDB() *gorm.DB {
 		panic("failed to connect database, err: " + err.Error())
 	}
 
-	db.AutoMigrate(&model.UserTable{}, &model.ReagentCopy1{}, &model.PatientCopy1{})
+	db.AutoMigrate(&model.UserTable{}, &model.ReagentCopy1{}, &model.PatientCopy1{}, &model.MatrixTable{})
 
 	DB = db
 	return db
