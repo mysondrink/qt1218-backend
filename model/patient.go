@@ -16,4 +16,5 @@ type PatientCopy1 struct {
 	Gender     string `gorm:"type:varchar(255);default:null"`
 	Patient_id int    `gorm:"primaryKey"`
 	Id         int    `gorm:"primaryKey;autoIncrement:false"`
+	Status     int    `gorm:"default:0"`
 }

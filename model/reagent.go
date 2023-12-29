@@ -29,3 +29,10 @@ type ReagentCopy1 struct {
 	// CreatedAt time.Time `gorm:"not null"`
 	// UpdatedAt time.Time `gorm:"not null"`
 }
+
+type ReagentSearch struct {
+	Reagent_time string
+	Reagent_type string
+	Page_size    int
+	Page         int
+}
