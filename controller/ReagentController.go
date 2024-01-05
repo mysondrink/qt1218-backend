@@ -2,7 +2,7 @@
  * @Author: mysondrink
  * @Date: 2023-12-20 10:33:51
  * @Last Modified by: mysondrink
- * @Last Modified time: 2023-12-29 16:41:08
+ * @Last Modified time: 2024-01-02 16:51:47
  * @Description:  试剂数据操作处理
  */
 package controller
@@ -79,6 +79,7 @@ func SearchReagentInfo(ctx *gin.Context) {
 		}
 	}
 
+	total = total/int64(pagesize) + 1
 	// 返回信息
 	response.Success(ctx, gin.H{"data": dto.ToReagentDto(reagenttables), "total": total}, "查询成功")
 }

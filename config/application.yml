@@ -8,3 +8,5 @@ datasource:
  password: password
  charset: utf8mb4
  loc: Local
+resource:
+ path: C:\Users\YGS_Tu\Desktop\1109\test.jpeg
